@@ -1,1 +1,19 @@
-.idea/
+# PyCharm
+.idea
+
+# Mac OS artifacts
+.DS_Store
+
+# Everything of log files
+*.log
+
+# Python artifacts
+venv
+env
+logs
+__pycache__
+
+# New artifacts
+*~
+.vscode
+
